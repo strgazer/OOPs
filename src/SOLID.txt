@@ -1,1 +1,29 @@
+SOLID Priniciples
+S = Single Responsibility Principle (SRP)
+O = Open/Closed Principle
+L = Liskov Substitution Principle
+I = Interface Segregation Principle
+D = Dependency Inversion Principle
+
+Advantages: It will make your code efficient, readable, maintainable, extensible, reusable and robust.
+
+1. SRP
+Every class must have a single, focused responsibility, a single reason to change.
+
+2. OCP
+Open for extension, but close for modification
+
+3. LSP
+Possible to substitute a superclass object with a subclass object without disturbing the behaviour of the program.
+Composition instead of Inheritance.
+
+4. ISP
+Small, focused interfaces should be created that do not force client to implement behaviour that they do not need.
+
+5. DIP
+High-level modules should not depends on low-level modules. 
+Follow Abstraction and ensure Loose Coupling.
+
+
+
 
